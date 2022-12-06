@@ -19,6 +19,7 @@ boolean result1 = st.execute(sqi1);
 
         System.out.println(resultSet1.getString("country_name"));
 //2.Example: Select the country_id and country_name whose region_id's are greater than 2
+        System.out.println(" ");
 
     }
     }
